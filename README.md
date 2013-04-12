@@ -14,7 +14,7 @@ npm install js-aop
 
 ##Usage
 ```html
-var aop = require("js-aop");
+var aop = require("js-aop");// Node.js require
 
 var obj = {
   url:"",
