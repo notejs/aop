@@ -1,4 +1,4 @@
-node-aop
+js-aop
 ========
 js-aop is a simple aop, can be run inside Node.js or in a browser.
 
