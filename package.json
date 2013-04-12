@@ -1,0 +1,18 @@
+{
+  "name": "node-aop",
+  "description": "an simple aop",
+  "author": {
+    "name": "Youjiang Wang"
+  },
+  "version": "0.0.1",
+  "main": "aop.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodejs/node-aop.git"
+  },
+  "keywords": [
+    "aop"
+  ],
+  "readme": "",
+  "readmeFilename": "README.md"
+}
