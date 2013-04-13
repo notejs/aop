@@ -1,6 +1,6 @@
 {
   "name": "node-aop",
-  "description": "a simple aop",
+  "description": "a simple aop, can be run inside Node.js or in a browser.",
   "author": {
     "name": "Youjiang Wang"
   },
@@ -8,7 +8,7 @@
   "main": "aop.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodejs/js-aop.git"
+    "url": "git://github.com/nodejs/aop.git"
   },
   "keywords": [
     "aop"
