@@ -11,7 +11,8 @@
     "url": "git://github.com/notejs/aop.git"
   },
   "keywords": [
-    "aop"
+    "aop",
+    "node-aop"
   ],
   "readme": "",
   "readmeFilename": "README.md"
