@@ -1,6 +1,6 @@
 {
   "name": "node-aop",
-  "description": "a simple aop, can be run inside Node.js or in a browser.",
+  "description": "node-aop is a aop helper library for JavaScript, can be run inside Node.js or in a browser.",
   "author": {
     "name": "Youjiang Wang"
   },
