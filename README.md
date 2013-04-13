@@ -1,20 +1,21 @@
-js-aop
+aop.js
 ========
-js-aop is a simple aop, can be run inside Node.js or in a browser.
+aop.js is a simple aop, can be run inside Node.js or in a browser.
 
 ##install
 In a browser
 ```html
-<script type="text/javascript" src="../aop.js"></script>
+<script type="text/javascript" src="aop/aop.js"></script>
 ```
 In Node, use [NPM](http://npmjs.org) to install:
 ```bash
-npm install js-aop
+npm install node-aop
 ```
+Note that the package name is node-aop; the name “aop” was already taken.
 
 ##Usage
 ```html
-var aop = require("js-aop");// Node.js require
+var aop = require("node-aop");// Node.js require. Use window.aop in browser
 
 var obj = {
   url:"",
