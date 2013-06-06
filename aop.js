@@ -59,4 +59,4 @@
 	}else{
 		module.exports = aop;
 	}
-})(undefined);
+})();
