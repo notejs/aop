@@ -1,18 +1,19 @@
 {
   "name": "node-aop",
-  "description": "node-aop is a aop helper library for JavaScript, can be run inside Node.js or in a browser.",
+  "description": "js aop(node-aop) is a aop helper library for JavaScript, can be run inside Node.js or in a browser.",
   "author": {
-    "name": "Youjiang Wang"
+    "name": "Linus Wang"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "aop.js",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/notejs/aop.git"
+	"type": "git",
+	"url": "git://github.com/notejs/aop.git"
   },
   "keywords": [
     "aop",
-    "node-aop"
+    "node-aop",
+	"js aop"
   ],
   "readme": "",
   "readmeFilename": "README.md"
