@@ -14,7 +14,7 @@ npm install node-aop
 Note that the package name is node-aop; the name “aop” was already taken.
 
 ##Usage
-```html
+```javascript
 var aop = require("node-aop");// Node.js require. Use window.aop in browser
 
 var obj = {
