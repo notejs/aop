@@ -1,21 +1,27 @@
 aop.js
 ========
+
 aop.js is a simple aop, can be run inside Node.js or in a browser.
 
-##install
+## Install
+
 In a browser
+
 ```html
 <script type="text/javascript" src="aop/aop.js"></script>
 ```
-In Node, use [NPM](http://npmjs.org) to install:
-```bash
-npm install node-aop
-```
-Note that the package name is node-aop; the name “aop” was already taken.
 
-##Usage
+In Node, use [NPM](http://npmjs.org) to install:
+
+```bash
+$ npm install --save @yfe/aop
+```
+Note that the package name is @yfe/aop; the name “aop” was already taken.
+
+## Usage
+
 ```javascript
-var aop = require("node-aop");// Node.js require. Use window.aop in browser
+var aop = require("@yfe/aop");// Node.js require. Use window.aop in browser
 
 var obj = {
   url:"",
@@ -61,3 +67,4 @@ h4.remove();
 obj.set("url", "http://google.com");
 console.log( obj.get("url") ); // http://google.com 
 ```
+
